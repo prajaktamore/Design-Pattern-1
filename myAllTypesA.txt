@@ -1,0 +1,9 @@
+<DPSerialization>
+ <complexType xsi:type="genericXMLProcessor.util.MyAllTypesFirst">
+  <myInt xsi:type="xsd:int">19</myInt>
+  <myString xsi:type="xsd:string">Design Patterns</myString>
+  <myDouble xsi:type="xsd:double">315.0</myDouble>
+  <myLong xsi:type="xsd:long">19</myLong>
+  <myChar xsi:type="xsd:char">P</myChar>
+ </complexType>
+</DPSerialization>
